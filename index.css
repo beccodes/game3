@@ -1,0 +1,134 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #E5A4A6;
+}
+
+h1 {
+    color: white;
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+    width: 250px;
+    height: 40px;
+    background-color: #E84A26;
+    border-radius: 5px;
+    text-align: center;
+}
+  
+.digit {
+    font-size: 30px;
+    color: #fff;
+    font-family: 'Amatic SC', cursive;
+}
+  
+.txt {
+    font-size: 30px;
+    color: white;
+    font-family: 'Amatic SC', cursive;
+    padding: 20px;
+}
+  
+#buttons {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    padding-bottom: 50px;
+}
+  
+.btn {
+    text-align: center;
+    width: 100px;
+    padding: 10px 15px;
+    margin: 5px;   
+    cursor: pointer;
+    font-size: 30px;
+    transition: 0.5s;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+    font-family: 'Amatic SC', cursive;
+}
+  
+#start {
+    background-color: white;
+    color:#E84A26;
+    border: none;
+}
+  
+#stop {
+    background-color: white;
+    color:#E84A26;
+    border: none;
+}
+  
+#reset {
+    background-color: white;
+    color:#E84A26;
+    border: none;
+}
+
+#quoteContainer {
+    width: 300px;
+    height: 75px;
+    background-color: #E84A26;
+    border-radius: 5px;
+    margin: auto;
+    border: none;
+    color: white;
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+    display: block;
+    margin: auto;
+}
+
+#quoteContainer2 {
+    width: 300px;
+    height: 75px;
+    background-color: #E84A26;
+    border-radius: 5px;
+    margin: auto;
+    border: none;
+    color: white;
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+    display: block;
+    margin: auto;
+}
+
+#easy {
+    width: 300px;
+    height: 160px;
+    background-color: #36937C;
+    border-radius: 5px;
+    margin: auto;
+    border: none;
+    color: white;
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+    display: block;
+    margin: auto;
+}
+
+
+#advanced {
+    width: 300px;
+    height: 160px;
+    background-color: #36937C;
+    border-radius: 5px;
+    margin: auto;
+    border: none;
+    color: white;
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+    display: block;
+    margin: auto;
+}
+
